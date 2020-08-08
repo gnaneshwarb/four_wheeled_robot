@@ -1,0 +1,2 @@
+m4w_robot:m4w_robot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/smartbridge/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/smartbridge/robot_ws/install -G Unix Makefiles

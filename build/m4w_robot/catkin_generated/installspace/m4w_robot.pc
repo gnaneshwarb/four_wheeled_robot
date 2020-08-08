@@ -1,0 +1,8 @@
+prefix=/home/smartbridge/robot_ws/install
+
+Name: m4w_robot
+Description: Description of m4w_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
